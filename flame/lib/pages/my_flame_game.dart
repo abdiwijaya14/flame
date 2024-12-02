@@ -14,7 +14,7 @@ class MyFlameGame extends FlameGame with PanDetector{
 
   @override
   Color backgroundColor() {
-    return const Color(0xFFFF0000);
+    return  Color(0xFFFF0000);
   }
 
   @override
